@@ -1,5 +1,5 @@
 package com.verteil;
 
 public class SecondClass {
-    public static String name = "Second Class";
+    public static String name = "Kochi";
 }
